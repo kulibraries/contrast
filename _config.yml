@@ -1,10 +1,10 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Really cool blog about ... something"
+title: "University of Kansas Carpentries Instructors"
+author: "KU Libraries"
+description: "Records of a group of Carpentries instructors affiliated with or adjacent to the University of Kansas"
 lang: "en"
 
 # Page settings
-permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
+permalink: /:year/:month/:day/:title:output_ext          # see https://jekyllrb.com/docs/permalinks/
 date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 #paginate: 8                 # use "layout: paginate" in the index.html to enable pagination
 
@@ -12,13 +12,13 @@ date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 hide_title: false            # remove site heading in the header
 hide_footer: false           # hide the "previous" and "next" links at the end of each post
 dark_theme: false            # use the dark mode as default
-dark_header: false           # keep the header dark
-dark_footer: false           # keep the footer dark
+dark_header: true           # keep the header dark
+dark_footer: true           # keep the footer dark
 # style: minimal             # use a simpler style inspired by the minima theme
 
 navigation:                  # site navigation in the header
   - index.html
-  - README.md
+  - about.md
 #  - title: "https://"       # linking external sites is also supported
 
 #icons:                      # icons in the header, see http://fontawesome.com/icons
