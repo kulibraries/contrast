@@ -3,9 +3,9 @@ title: "May 6, 2019 Meeting Notes"
 ---
 
 ### Carpentries Instructors’ meeting
-Monday, May 6, 2019
-9:30-11:00 AM
-Watson 400B
+- Monday, May 6, 2019
+- 9:30-11:00 AM
+- Watson 400B
 
 ### Present:
 Albin, Koseva, Brooks-Kieffer

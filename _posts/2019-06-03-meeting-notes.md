@@ -3,9 +3,9 @@ title: "June 03, 2019 Meeting Notes"
 ---
 
 ### Carpentries Instructors’ meeting
-Monday, June 03, 2019
-9:30-11:00 AM
-Watson 400B and Zoom
+- Monday, June 03, 2019
+- 9:30-11:00 AM
+- Watson 400B and Zoom
 
 ### Present
 Buffington, Russell, Koseva, Brooks-Kieffer
