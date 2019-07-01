@@ -57,7 +57,7 @@ Albin, Koseva, Brooks-Kieffer, Thomas, Buffington, Russell
 - Someone will provide Casey with links to the installers for the flash drives (I wasn't sure who wound up volunteering for this - Cort, can you do it?)
 - Jamene will check with Catering on the rate charged for an internal versus an external entity
 - Jamene will kick off creation of Eventbrite registration inside the libraries
-- Jamene will schedule a tech check at Price either Friday, 8/16, or Monday, 8/19 and send the appointment to Samantha and contribute
-- Jamene will schedule an install party at Price, perhaps to back up against the tech check for convenience 
+- Jamene will schedule a tech check at Price either Friday, 8/16, or Monday, 8/19 and send the appointment to Samantha and Cort
+- Jamene will schedule an install party at Price, perhaps to back up against the tech check for convenience
 
 Notes by JBK
