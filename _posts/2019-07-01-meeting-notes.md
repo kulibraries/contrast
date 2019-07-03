@@ -53,11 +53,11 @@ Albin, Koseva, Brooks-Kieffer, Thomas, Buffington, Russell
 
 ### Action Items:
 - Boryana and Samantha will get together on the R lesson and the Demo
-- Jamene and Cort will get together on the workshop website and Etherpad
+- ~~Jamene and Cort will get together on the workshop website and Etherpad~~ Done 2019/07/03
 - Someone will provide Casey with links to the installers for the flash drives (I wasn't sure who wound up volunteering for this - Cort, can you do it?)
-- Jamene will check with Catering on the rate charged for an internal versus an external entity
-- Jamene will kick off creation of Eventbrite registration inside the libraries
-- Jamene will schedule a tech check at Price either Friday, 8/16, or Monday, 8/19 and send the appointment to Samantha and Cort
-- Jamene will schedule an install party at Price, perhaps to back up against the tech check for convenience
+- ~~Jamene will check with Catering on the rate charged for an internal versus an external entity~~ Emailed 2017/07/03
+- ~~Jamene will kick off creation of Eventbrite registration inside the libraries~~ Emailed 2017/07/03
+- ~~Jamene will schedule a tech check at Price either Friday, 8/16, or Monday, 8/19 and send the appointment to Samantha and Cort~~ Tech check is Monday, 8/19, 2-2:30 pm in the Price Auditorium; sent Cort and Samantha the appointment
+- ~~Jamene will schedule an install party at Price, perhaps to back up against the tech check for convenience~~ install party is 2:30-4:40 on Monday, 8/19, in Price Computing Center; emailed instructors group
 
 Notes by JBK
