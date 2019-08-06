@@ -53,6 +53,7 @@ Koseva, Brooks-Kieffer, Thomas, Buffington, Russell, Deakyne
 - Send an appointment to Cort and Samantha for the tech check in Learned 3152
   - JBK: Done Monday 8/05
 - Send a link to the helpers' spreadsheet to instructors' group
+  - JBK: Done Monday 8/05
 - Send list of previous helpers to Boryana
   - JBK: Done Monday 8/05
 - Send contact information for the Libraries' Eventbrite person to the instructors' group
