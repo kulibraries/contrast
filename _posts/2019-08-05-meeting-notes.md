@@ -13,7 +13,7 @@ Koseva, Brooks-Kieffer, Thomas, Buffington, Russell, Deakyne
 - We were joined by Matt Deakyne from KU IT; Matt is interested in Carpentries instructor training and teaching technology things in general. Matt has helped on previous SWC workshops at KU. Welcome, Matt!
 - We went around the room for introductions, and then a second round to talk about peoples' experiences with instructor training, the workshops, the amount of time required, and other items of interest to potential instructors.
 - We discussed lots of stuff about the August 20-21 workshop:
-  - The workshop site: https://kulibraries.github.io/2019-08-20-ku/ - you can get an up-to-date number of open seats on this page.
+  - The workshop site: [https://kulibraries.github.io/2019-08-20-ku/](https://kulibraries.github.io/2019-08-20-ku/) - you can get an up-to-date number of open seats on this page.
   - New location: Learned 3152. Thank you, Engineering!
     - Appointment for the tech check is forthcoming; needed to be scheduled with the Engineering TSC
     - Cort updated the Etherpad with current dining information. Thanks!
@@ -31,7 +31,7 @@ Koseva, Brooks-Kieffer, Thomas, Buffington, Russell, Deakyne
     - Boryana and Samantha will practice the wrap-up activity discussed in the previous Meeting
     - Boryana asked about slides running in the room before the workshop / during lunch
       - Jamene: yes we did this to notify people to check in to get their refund. Jamene and Tami also did this during the Git workshop on July 19.
-      - Basic content is: links to workshop site and Etherpad; how to get help; question about software installers and GitHub account ("Did you do it?"")
+      - Basic content is: links to workshop site and Etherpad; how to get help; question about software installers and GitHub account ("Did you do it?")
       - Yes, we can do these again. Casey, who attended the Git workshop, indicated that they were mostly effective
   - Workshop Promotion
     - Discussed promotion strategies, with the following conclusions:
