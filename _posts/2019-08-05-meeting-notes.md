@@ -43,22 +43,22 @@ Koseva, Brooks-Kieffer, Thomas, Buffington, Russell, Deakyne
 - There was no business other than the workshop. We adjourned early!
 
 ### Action Items:
-- ~Add the Install-A-Thon to learners' reminder emails~
+- Add the Install-A-Thon to learners' reminder emails
   - JBK: Done; it's in two reminder emails that Eventbrite will send out on Thursday, 8/15, and Sunday, 8/18
-- ~Send an appointment for the Install-A-Thon to the instructors' group~
+- Send an appointment for the Install-A-Thon to the instructors' group
   - JBK: Done; went out Monday 8/05
-- ~Update Catering order with new workshop location~  
+- Update Catering order with new workshop location  
   - JBK: Done Monday 8/05
-- ~Send an appointment to Cort and Samantha for the tech check in Learned 3152~
+- Send an appointment to Cort and Samantha for the tech check in Learned 3152
   - JBK: Done Monday 8/05
 - Send a link to the helpers' spreadsheet to instructors' group
-- ~Send list of previous helpers to Boryana~
+- Send list of previous helpers to Boryana
   - JBK: Done Monday 8/05
 - Send contact information for the Libraries' Eventbrite person to the instructors' group
 - Update workshop intro slides for this workshop, both days
-- ~Send workshop announcement template to instructors' group~
+- Send workshop announcement template to instructors' group
   - JBK: Done Monday 8/05
-- ~Send workshop announcement to Graduate Studies and the PostDoc mailing list~
+- Send workshop announcement to Graduate Studies and the PostDoc mailing list
   - JBK: Done Monday 8/05
 - Other announcements roll out according to the schedule agreed to in the meeting (see Workshop Promotion above)
 
