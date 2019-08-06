@@ -13,6 +13,7 @@ Koseva, Brooks-Kieffer, Thomas, Buffington, Russell, Deakyne
 - We were joined by Matt Deakyne from KU IT; Matt is interested in Carpentries instructor training and teaching technology things in general. Matt has helped on previous SWC workshops at KU. Welcome, Matt!
 - We went around the room for introductions, and then a second round to talk about peoples' experiences with instructor training, the workshops, the amount of time required, and other items of interest to potential instructors.
 - We discussed lots of stuff about the August 20-21 workshop:
+  - The workshop site: https://kulibraries.github.io/2019-08-20-ku/ - you can get an up-to-date number of open seats on this page.
   - New location: Learned 3152. Thank you, Engineering!
     - Appointment for the tech check is forthcoming; needed to be scheduled with the Engineering TSC
     - Cort updated the Etherpad with current dining information. Thanks!
