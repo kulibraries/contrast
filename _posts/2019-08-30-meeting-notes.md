@@ -14,15 +14,15 @@ We were joined by Elizabeth Everman and Tom Hill, both from Molecular Bioscience
 
 Our primary agenda item at this meeting was to debrief the August 20-21 workshop [https://kulibraries.github.io/2019-08-20-ku/](https://kulibraries.github.io/2019-08-20-ku/). We chunked this out into plus/delta for several different topics:
 - Teaching and helping:
-  - + Learners helped each other, in part because of the room layout
-  - + Lots of learners stayed in the workshop and returned for all the sessions in spite of frustration and difficulty
-  - + Learners with some experience asked interesting questions
-  - + Number of available helpers was good
-  - + Bash went well; got about as far into the lesson as it's possible to get in a three-hour session
-  - + Git Countries exercise went well
-  - + R instruction recovered after data frames section - lots of encouragement from other instructors here!
-  - + Instructors felt they were doing a better job of teaching with the Etherpad, although there is room for improvement (see below)
-  - + Multiple instructors modeled mistakes; whether intentional or inadvertent, this is important for novices to see
+  - \+ Learners helped each other, in part because of the room layout
+  - \+ Lots of learners stayed in the workshop and returned for all the sessions in spite of frustration and difficulty
+  - \+ Learners with some experience asked interesting questions
+  - \+ Number of available helpers was good
+  - \+ Bash went well; got about as far into the lesson as it's possible to get in a three-hour session
+  - \+ Git Countries exercise went well
+  - \+ R instruction recovered after data frames section - lots of encouragement from other instructors here!
+  - \+ Instructors felt they were doing a better job of teaching with the Etherpad, although there is room for improvement (see below)
+  - \+ Multiple instructors modeled mistakes; whether intentional or inadvertent, this is important for novices to see
   - &Delta; Need to make sure that all instructors know where the workshop data is and how learners are going to get it. This detail didn't get communicated before this workshop.
   - &Delta; Some learners lost their working environment in RStudio between day 1 and day 2; be more explicit about how to save the project on day 1 and where/how to open it on day 2
   - &Delta; R day 1 introduction to data frames got bogged down in confusing material (no one likes data types!)
@@ -38,13 +38,13 @@ Our primary agenda item at this meeting was to debrief the August 20-21 workshop
   - **For next workshop** Be clear that the R installation is RStudio
   - **For all workshops** Model and emphasize that learning new stuff is valuable
 - Workshop space:
-  - + Closer classroom setting kept people in the room and helped them build or deepen relationships with their fellow learners
-  - + Classroom setting helped instructors and learners see nonverbal cues from the whole set of learners
-  - + Some instructors and helpers had an easier time seeing sticky notes in the classroom compared with an auditorium
-  - + Directional signage in the building was helpful
-  - + Proximity to restrooms and elevators was good
-  - + Nice to have two doors
-  - + Tami and KanREN's supply of power strips was essential - thank you!
+  - \+ Closer classroom setting kept people in the room and helped them build or deepen relationships with their fellow learners
+  - \+ Classroom setting helped instructors and learners see nonverbal cues from the whole set of learners
+  - \+ Some instructors and helpers had an easier time seeing sticky notes in the classroom compared with an auditorium
+  - \+ Directional signage in the building was helpful
+  - \+ Proximity to restrooms and elevators was good
+  - \+ Nice to have two doors
+  - \+ Tami and KanREN's supply of power strips was essential - thank you!
   - &Delta; Room was cold and didn't have enough space for all the people we crammed in
   - &Delta; Lack of power outlets could have been really bad but was averted
   - &Delta; Back of the room, containing helpers, registration, and catering became a chokepoint
@@ -53,8 +53,8 @@ Our primary agenda item at this meeting was to debrief the August 20-21 workshop
   - **For next workshop** Add links to accessibility maps and building descriptions to workshop page (GitHub), registration page (Eventbrite), and description page (Libraries). These are available at [https://accessibility.ku.edu](https://accessibility.ku.edu).
   - **For next workshop** Bring black whiteboard markers to ensure enough contrast
 - (Lack of) Deposit:
-  - + Did not impact attendance
-  - + If the 5 no-shows had attended, we would have been really cramped for space
+  - \+ Did not impact attendance
+  - \+ If the 5 no-shows had attended, we would have been really cramped for space
 - Install-A-Thon (not discussed, but relevant for next workshop):
   - Only one learner attended, and this during the last five minutes
   - **For next workshop** Consider if Install-A-Thon is worth it
