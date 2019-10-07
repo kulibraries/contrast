@@ -7,7 +7,7 @@ title: "August 30, 2019 Meeting Notes"
 - Watson 455 and Zoom
 
 ### Present:
-Albin, Brooks-Kieffer, Buffington, Everman, Hill, Russell, Thomas
+Albin, Brooks-Kieffer, Buffington, Everman, Hill, Koseva, Russell, Thomas
 
 ### Highlights:
 We were joined by Elizabeth Everman and Tom Hill, both from Molecular Biosciences. Both are interested in Carpentries instructor training and have helped at Software Carpentry workshops at KU. Welcome, Elizabeth and Tom!
