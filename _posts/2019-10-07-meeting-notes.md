@@ -14,7 +14,7 @@ We were joined by Lisa Timmons (Molecular Biosciences) and Paul Trana (KU Edward
 
 ### Agenda
 - GPN call for an instructor for SWC at U. South Dakota later in October
-- Possibility of bystander intervention training as an alignment with the [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](Carpentries Code of Conduct)
+- Possibility of bystander intervention training as an alignment with the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - Debrief recent instructor training; offer support for checkout activities
 - Offer tips to prep for instructor training
 - Discuss potential dates for next full workshop(s)
@@ -24,7 +24,7 @@ We were joined by Lisa Timmons (Molecular Biosciences) and Paul Trana (KU Edward
 
 ### Discussions
 #### Bystander Intervention training (Koseva)
-Boryana is in touch with a professor who teaches two-hour bystander intervention workshops. Given that instructors, hosts, and organizers are responsible for the [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](Carpentries Code of Conduct), she proposed holding one of these training sessions. She will send a poll to determine the best date; then we will look for a space.
+Boryana is in touch with a professor who teaches two-hour bystander intervention workshops. Given that instructors, hosts, and organizers are responsible for the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), she proposed holding one of these training sessions. She will send a poll to determine the best date; then we will look for a space.
 
 #### Debrief recent instructor training
 Elizabeth and Matt discussed some takeaways from their September instructor training. The sessions were interactive and hands-on, which wasn't really expected from a Zoom workshop. The Carpentries do a good job of modeling norms for virtual meetings, including all participants having their video on. Checkout sessions for October are getting full, and scheduling earlier just makes sure the process gets done. All certified instructors in the group are available for support for checkout activities.
@@ -41,17 +41,17 @@ Folks expressed various topics of interest to them as instructors and to their u
 - Tami: Bash and Git
 
 This list started to sound like two whole workshops plus one or more one topic workshops:
-- [https://software-carpentry.org/lessons/](Software Carpentry):
-  - [http://swcarpentry.github.io/shell-novice](Bash)
-  - [http://swcarpentry.github.io/git-novice](Git)
-  - [http://swcarpentry.github.io/python-novice-gapminder](Python gapminder)
-- [https://datacarpentry.org/lessons/](Data Carpentry), depending on the discipline interest (To date, KU has not offered DC, so this is potentially a new set of learners for us):
-  - [https://datacarpentry.org/lessons/#ecology-workshop](Ecology)
-  - [https://datacarpentry.org/lessons/#genomics-workshop](Genomics)
-- [https://datacarpentry.org/lessons/#geospatial-curriculum](R Spatial Analysis)
+- [Software Carpentry](https://software-carpentry.org/lessons/):
+  - [Bash](http://swcarpentry.github.io/shell-novice)
+  - [Git](http://swcarpentry.github.io/git-novice)
+  - [Python Gapminder](http://swcarpentry.github.io/python-novice-gapminder)
+- [Data Carpentry](https://datacarpentry.org/lessons/), depending on the discipline interest (To date, KU has not offered DC, so this is potentially a new set of learners for us):
+  - [Ecology](https://datacarpentry.org/lessons/#ecology-workshop)
+  - [Genomics](https://datacarpentry.org/lessons/#genomics-workshop)
+- [R Spatial Analysis](https://datacarpentry.org/lessons/#geospatial-curriculum)
   - There was a bit of concern that this is a beta lesson. It's only been around in published form for 12-18 months. Carpentries instructors at the University of Oklahoma have been teaching and contributing to the lesson, so we could get a call together to chat with them about the content and delivery.
-- [https://hpc-carpentry.github.io/](HPC)
-  - There was concern that this curriculum is not affiliated with the Carpentries. While it's not an officially affiliated lesson, many of the developers are a part of or in touch with the Carpentries community. There's a quasi-active discussion group available on the [https://carpentries.topicbox.com/groups/discuss-hpc](Carpentries discussion lists).
+- [HPC](https://hpc-carpentry.github.io/)
+  - There was concern that this curriculum is not affiliated with the Carpentries. While it's not an officially affiliated lesson, many of the developers are a part of or in touch with the Carpentries community. There's a quasi-active discussion group available on the [Carpentries discussion lists](https://carpentries.topicbox.com/groups/discuss-hpc).
 
 Instructors present who had taught one or more of these topics offered tips on structuring and delivering the lessons. Some topics were:
 - Choosing python-gapminder or python-inflammation
@@ -75,11 +75,11 @@ We briefly discussed possible spaces for upcoming workshops in light of what we 
 Anyone who wants to go scouting through Haworth and Malott to find good classrooms should feel free! One important note about centrally-scheduled classrooms is that no food or drink is allowed, so catering would be more difficult.
 
 ### Other uses for the curricula
-We briefly discussed the fact that The Carpentries is changing how they track and give instructor credit for one topic workshops. See [https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/ ](this recent blog post). This means, in theory, that as instructors we would be able to have our one topic workshops count in The Carpentries database. These are workshops that we can self-organize; they have the same characteristics of a full workshop; e.g.: helpers, sticky notes, website, live coding; but they don't include all the topics that make up a full workshop. See the Libraries' summer [https://kulibraries.github.io/20190719-git-ku/](Git workshop) as an example.
+We briefly discussed the fact that The Carpentries is changing how they track and give instructor credit for one topic workshops. See [this recent blog post](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/). This means, in theory, that as instructors we would be able to have our one topic workshops count in The Carpentries database. These are workshops that we can self-organize; they have the same characteristics of a full workshop; e.g.: helpers, sticky notes, website, live coding; but they don't include all the topics that make up a full workshop. See the Libraries' summer[Git workshop](https://kulibraries.github.io/20190719-git-ku/) as an example.
 
-Other potential uses for Carpentries lessons include embedding all or part of a curriculum in a for-credit course. Samantha is talking to someone putting together a metagenomics class - this class could find existing Carpentries lessons about, e.g.: Bash and R, useful. Boryana drew attention to the Data Carpentry [https://datacarpentry.org/lessons/#biology-semester-long-course](semester-long course) as another example.
+Other potential uses for Carpentries lessons include embedding all or part of a curriculum in a for-credit course. Samantha is talking to someone putting together a metagenomics class - this class could find existing Carpentries lessons about, e.g.: Bash and R, useful. Boryana drew attention to the [Data Carpentry semester-long course](https://datacarpentry.org/lessons/#biology-semester-long-course) as another example.
 
-In all of these cases, it's necessary to cite the source of the lesson material and not to call the workshop or course "Carpentry" since these uses don't adhere to the organization's definition of a "Carpentry workshop." For more information, read [https://carpentries.org/workshops/#workshop-core](The Carpentries' definitions of the core curricula). For more information on one topic and other non-standard workshops, check out [https://docs.carpentries.org/topic_folders/hosts_instructors/unofficial_workshops.html](this page of The Carpentries Handbook).
+In all of these cases, it's necessary to cite the source of the lesson material and not to call the workshop or course "Carpentry" since these uses don't adhere to the organization's definition of a "Carpentry workshop." For more information, read [The Carpentries' definitions of the core curricula](https://carpentries.org/workshops/#workshop-core). For more information on one topic and other non-standard workshops, check out [this page of The Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/unofficial_workshops.html).
 
 
 ### Action Items:
