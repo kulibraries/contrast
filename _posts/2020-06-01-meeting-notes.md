@@ -21,11 +21,6 @@ Used a live shared document again; link upon request if you don't have it.
 **Planning an online Carpentries Workshop**
 
 The instructor group has a lot of interest in doing an online workshop. Questions and discussion included:
-- Timing?
-- Traditional two-day or something else?
-- R or Python?
-- Audience?
-- Opportunity to practice?
 
 *Timing?*
 
@@ -37,7 +32,7 @@ A lesson from Mizzou's two-day online SWC is that it's really hard to focus and 
 
 *R or Python?*
 
-Most recent in-person workshop ([https://kulibraries.github.io/2020-01-15-ku/](January 2020)) was R, lightly attended. No SWC Python workshop offered for 18 months, so this will be the first choice. Another option would be to offer both languages, as OU is doing in their most recent workshop: [https://oulib-swc.github.io/2020-05-20-ou-swc-online/](https://oulib-swc.github.io/2020-05-20-ou-swc-online/).
+Most recent in-person workshop ([January 2020](https://kulibraries.github.io/2020-01-15-ku/)) was R, lightly attended. No SWC Python workshop offered for 18 months, so this will be the first choice. Another option would be to offer both languages, as OU is doing in their [most recent workshop](https://oulib-swc.github.io/2020-05-20-ou-swc-online/).
 
 *Audience?*
 
@@ -45,7 +40,7 @@ Discussion that we will need to promote and possibly schedule the workshop diffe
 
 *Opportunity to practice?*
 
-This discussion bled into conversation about Mizzou's May SWC workshop and possible ways of flipping some of the learner experience. We talked about recording topics such as software install and getting started so that workshop time could be focused on tasks; scheduling "office hours" for install help prior to a workshop; and using [https://technology.ku.edu/software/voicethread](VoiceThread) for introductions and possibly other material. All of these elements plus the use of Zoom as the "classroom" means that we need to prepare and practice for this workshop. Most instructors agreed that having a deadline in the form of a scheduled workshop would be helpful for preparing. Also discussed recruiting test learners to observe and provide feedback on a prototype session.
+This discussion bled into conversation about Mizzou's May SWC workshop and possible ways of flipping some of the learner experience. We talked about recording topics such as software install and getting started so that workshop time could be focused on tasks; scheduling "office hours" for install help prior to a workshop; and using [VoiceThread](https://technology.ku.edu/software/voicethread) for introductions and possibly other material. All of these elements plus the use of Zoom as the "classroom" means that we need to prepare and practice for this workshop. Most instructors agreed that having a deadline in the form of a scheduled workshop would be helpful for preparing. Also discussed recruiting test learners to observe and provide feedback on a prototype session.
 
 **Observing an online Software Carpentry**
 
@@ -61,18 +56,18 @@ JBK sent a full set of notes on an online SWC from early May - she attended as a
 
 **Instructor training debrief**
 
-One person has very recently completed instructor training and is working on checkout tasks. Yay! Reference to the [http://midwestbigdatahub.org/](Midwest Big Data Hub), which came up during instructor training.
+One person has very recently completed instructor training and is working on checkout tasks. Yay! Reference to the [Midwest Big Data Hub](http://midwestbigdatahub.org/), which came up during instructor training.
 
 **Announcements**
 
 - The Carpentries are hosting Community Conversations specifically about online workshops. JBK will send notes from the first conversation, held Monday, June 1.
 - The Carpentries has a number of developing resources about online workshops:
-  - [https://carpentries.org/blog/2020/05/centrally-organised-workshop-learnings/](Blog post about the first centrally-organized online workshop)
-  - [https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html](Resources for online workshops in the Carpentries Handbook)
-  - [https://carpentries.org/online-workshop-recommendations/](Specific recommendations for teaching Carpentries online)
-  - [https://carpentries.org/workshop_faq/#online-workshops](Workshop FAQ section for online workshops)
-  - [https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html](Useful Zoom tools for workshop hosts)
-- The Carpentries is also introducing a new instructor role for centrally-organized online workshops: "Supporting Instructor." These instructors are fully certified but have taught fewer than 3 workshops since certification. Instructors meeting this description can volunteer for centrally-organized workshops at the [https://docs.google.com/spreadsheets/d/1YhTAzEalDqKUowgej7aRa7E1K0XcB6ZezoVUt6VN2qY/edit#gid=0](Instructor sign-up) spreadsheet.
+  - [Blog post about the first centrally-organized online workshop](https://carpentries.org/blog/2020/05/centrally-organised-workshop-learnings/)
+  - [Resources for online workshops in the Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html)
+  - [Specific recommendations for teaching Carpentries online](https://carpentries.org/online-workshop-recommendations/)
+  - [Workshop FAQ section for online workshops](https://carpentries.org/workshop_faq/#online-workshops)
+  - [Useful Zoom tools for workshop hosts](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html)
+- The Carpentries is also introducing a new instructor role for centrally-organized online workshops: "Supporting Instructor." These instructors are fully certified but have taught fewer than 3 workshops since certification. Instructors meeting this description can volunteer for centrally-organized workshops at the [Instructor sign-up](https://docs.google.com/spreadsheets/d/1YhTAzEalDqKUowgej7aRa7E1K0XcB6ZezoVUt6VN2qY/edit#gid=0) spreadsheet.
 
 **Action Items**
 - JBK will look at dates on the KU calendar and propose some workshop timings for the instructor group
