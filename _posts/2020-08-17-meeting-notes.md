@@ -29,8 +29,8 @@ Recorded discussion using a live shared document; link upon request if you don't
 - &Delta; Also a lot of need for help versus number of helpers.
 - &Delta; Could we set up a concierge for assigning learners to a helper in advance? Based on operating system, number of helpers, number of learners.
 - &Delta; As a helper, would be nice if you could show you’re available to help vs. already helping someone. When lots of help was happening, it was hard to know which learners in the main room were waiting, caught up, typing furiously to catch up, or waiting to ask for help.
-= &Delta; Turning video on and off could be a way to do that? Or changing background picture, or have a standby screen if busy helping.
-- Role of helper – in-person, helpers float around the room. Online, helpers need to prep too by installing the software and keeping up; be prepared by budgeting time to get ready for the workshop. Assumption that helpers don’t need to prep is not correct.
+- &Delta; Turning video on and off could be a way to do that? Or changing background picture, or have a standby screen if busy helping.
+- &Delta; Role of helper: in-person, helpers float around the room. Online, helpers need to prep too by installing the software and keeping up; be prepared by budgeting time to get ready for the workshop. Assumption that helpers don’t need to prep is not correct.
 - &Delta; It’s easy for helpers to lose track of what is going on; instructor sharing their script in advance would be helpful for helpers to a. prepare and b. catch up if get behind on an unfamiliar topic.
 - ? Was concerned about single-screen learners – how would you catch up if you got behind and the instructor’s screen scrolled?
 - ? With online workshops, what will we need to give up to keep people on track? Was downloading chat transcripts to see where these moments are.
