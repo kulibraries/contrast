@@ -18,7 +18,7 @@ Brooks-Kieffer, Deakyne, Everman, Trana, Zipper
 
 **Insights on Data Carpentry Genomics scheduling**
 
-In October's [https://carpentries.topicbox.com/groups/local-us-midwest](US-Midwest Carpentries region) call, Sarah Steves (U. Wisconsin Madison) mentioned her experience that Data Carpentry Genomics is really 3 days of material; she has taught the lessons online over 6 half days (MWF for two weeks). Jamene will put Elizabeth in touch with Sarah for more DC-Genomics insights.
+In October's [US-Midwest Carpentries region](https://carpentries.topicbox.com/groups/local-us-midwest) call, Sarah Steves (U. Wisconsin Madison) mentioned her experience that Data Carpentry Genomics is really 3 days of material; she has taught the lessons online over 6 half days (MWF for two weeks). Jamene will put Elizabeth in touch with Sarah for more DC-Genomics insights.
 
 **Scheduling KU workshops around the academic calendar**
 
@@ -36,7 +36,7 @@ KU Academic Calendar dates to be aware of:
 
 Assuming two weeks of Data Carpentry Genomics, we would need to begin the workshop on 01/04, 01/11, or 01/19. Currently leaning toward 01/04 so as to not overlap with 8 week classes; the instructors will check calendars and confirm.
 
-We had discussed Data Carpentry Social Sciences for Spring 2021. Insights from Paul's time as a helper at one of OU's DC-Social Sciences-R lessons (below) highlighted the advantages of knowing one's learners in order to pace and deliver the material most effectively. There is a possibility of reaching out to [https://ipsr.ku.edu](IPSR) for some more discipline-specific targeting of learners (and possibly helpers), plus assistance with planning the schedule for best attendance. This could also be a model for the DC-Genomics workshop, although the academic calendar will be more of a challenge for the social sciences workshop. More to come.
+We had discussed Data Carpentry Social Sciences for Spring 2021. Insights from Paul's time as a helper at one of OU's DC-Social Sciences-R lessons (below) highlighted the advantages of knowing one's learners in order to pace and deliver the material most effectively. There is a possibility of reaching out to [IPSR](https://ipsr.ku.edu) for some more discipline-specific targeting of learners (and possibly helpers), plus assistance with planning the schedule for best attendance. This could also be a model for the DC-Genomics workshop, although the academic calendar will be more of a challenge for the social sciences workshop. More to come.
 
 The idea for some standalone R workshops is still viable but was pushed forward to summer 2021. More to come here, as well.
 
