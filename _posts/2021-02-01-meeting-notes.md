@@ -84,7 +84,7 @@ The group chatted with guests who are already registered or are considering Carp
 
 **Data Carpentry Social Sciences for Spring 2021**
 
-Paul has been planning for R lessons by comparing the [Software Carpentry R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder) lesson with the [Data Carpentry Social Sciences Data Analysis and Visualization with R for Social Scientists(http://www.datacarpentry.org/r-socialsci/) lesson. It's likely that he'll pick and choose from his preferred pieces of both lessons; this is normal for Carpentries instructors and occurs at their discretion when preparing for a workshop. Tami also has other instruction obligations and wants to be sure there's time to prepare. A separate planning meeting will likely happen this month.
+Paul has been planning for R lessons by comparing the [Software Carpentry R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder) lesson with the [Data Carpentry Social Sciences Data Analysis and Visualization with R for Social Scientists](http://www.datacarpentry.org/r-socialsci/) lesson. It's likely that he'll pick and choose from his preferred pieces of both lessons; this is normal for Carpentries instructors and occurs at their discretion when preparing for a workshop. Tami also has other instruction obligations and wants to be sure there's time to prepare. A separate planning meeting will likely happen this month.
 
 
 Notes by JBK
