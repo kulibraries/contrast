@@ -23,6 +23,7 @@ Albin, Brooks-Kieffer, Dwyer (guest), Kindred (guest), Koseva, Russell, Thomas, 
   - [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/)
   - [Data Cleaning with OpenRefine](https://datacarpentry.org/openrefine-socialsci/)
   - [R and RStudio](https://datacarpentry.org/r-socialsci/)
+- Experiment with 3 drop-in Q&A sessions on the Monday following each Friday session: March 15, 22, 29.
 
 Discussion of teaching and helping included the following advice and perspectives:
 
