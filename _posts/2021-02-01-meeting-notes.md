@@ -1,8 +1,8 @@
 ---
-title: "February 2, 2021 Meeting Notes"
+title: "February 1, 2021 Meeting Notes"
 ---
 ### Carpentries Instructors’ meeting
-- Monday, February 2, 2021
+- Monday, February 1, 2021
 - 9:00-10:00 AM
 
 ### Present:
