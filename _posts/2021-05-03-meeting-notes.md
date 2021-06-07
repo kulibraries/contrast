@@ -32,13 +32,13 @@ The audience of DC-Geospatial will determine what is taught. Some learners will 
 
 A list of minimum core competencies for participating in DC-Geospatial was created during the meeting:
 
-1 Reading csvs and other files into R as objects
-2 Navigating the environment, installing packages and libraries
-3 Tidyverse; gathering, sub-setting, editing and otherwise manipulating data frames
-4 General troubleshooting
-5 Piping
-6 Familiarity with printing data/summarizing data (head, str, tail etc) would be nice
-7 Some familiarity with plotting using ggplot
+1. Reading csvs and other files into R as objects
+2. Navigating the environment, installing packages and libraries
+3. Tidyverse; gathering, sub-setting, editing and otherwise manipulating data frames
+4. General troubleshooting
+5. Piping
+6. Familiarity with printing data/summarizing data (head, str, tail etc) would be nice
+7. Some familiarity with plotting using ggplot
 
 **Instructor Training Check-in and Debrief**
 
