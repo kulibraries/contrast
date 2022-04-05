@@ -47,9 +47,9 @@ Checkout task check-in:
 
 **Open Science Workflow with RStudio Workshop**
 
-This will be a half-day workshop on Wednesday, April 27 (12-4pm) over Zoom, no deposit, capped at 25. Based on a [Carpentries Incubator lesson](https://carpentries-incubator.github.io/open-science-with-r/). Focus is practicing a typical open science workflow that includes pulling in a live data stream, R code, writing reports with Markdown/RMarkdown, and version controlling the whole think with Git/GitHub.
+This will be a half-day workshop on Wednesday, April 27 (12-4pm) over Zoom, no deposit, capped at 25. Based on a [Carpentries Incubator lesson](https://carpentries-incubator.github.io/open-science-with-r/). Focus is practicing a typical open science workflow that includes pulling in a live data stream, R code, writing reports with Markdown/RMarkdown, and version controlling the whole thing with Git/GitHub.
 
-Contents:
+Approach and Contents:
 
 - Everything taking place in RStudio
 - Introduction to Markdown and GitHub
