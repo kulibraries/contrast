@@ -32,7 +32,7 @@ The group also briefly discussed an early January workshop over two full days, b
 
 Several folks are on the verge of completing checkout tasks. Yay!
 
-**Carpentries lesson development training **
+**Carpentries lesson development training**
 
 Rob, Terry, and Jamene participated in the pilot offering of a [Carpentries Lesson Development workshop](https://carpentries.org/blog/2022/04/lesson-development-training-pilot/) in June and July. As part of the workshop they are developing a Carpentries-style lesson on [data visualization](https://jbkieffer.github.io/intro-data-viz/). The goal is for the lesson to wind up in the Carpentries Incubator. Soon it will be available for others to teach and offer feedback.
 
