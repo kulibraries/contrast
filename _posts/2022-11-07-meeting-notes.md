@@ -32,6 +32,7 @@ Delta:
 - Some confusion with loggin onto the remote service for OpenRefine. After that things went smoothly
 - Spreadsheets lesson is very lecture-y, lots of show and tell instead of doing something together. May work better in person than online
 
+
 Jamene added 2022-11-09 – comments from one of the 10/14 Spreadsheets & OpenRefine workshop helpers: 
 - This might be a Mac-specific suggestion for the instructors because of how the windows for different programs open on the Mac, but I noticed neither instructor maximized the window they were working in, which made the spreadsheets and OpenRefine data really hard to see. They did a good job of increasing the display size of the window, but never fully maximized the window on their screen. Especially if folks only have access to one screen to split for the workshop I think it would be worth having the instructors make sure the program windows are full size while working through the examples. 
 - The parts about adding and subtracting dates or pulling out specific parts of a date in the spreadsheets lesson were interesting, but a little confusing. I wonder if the lesson could include examples of when/why you might need to do this? 
