@@ -31,23 +31,6 @@ None
 - Caroline has email drafted for who is teaching what module; will follow up with Boryana 
 - Amanda K. can help with this workshop if needed 
 
-**Data Carpentry Ecology: SQL 2 (10/21) debrief**
-
-Plus:
-
-- Went smoothly
-- Feedback from learners suggested the workshop went well
-- Breakout rooms were used effectively
-- Live coding and moving through the challenges helped move through material more quickly without leaving people behind
-- Got through most of the lesson material
-
-Delta:
-
-- Data import caused some confusion. It would be helpful to go through this material more deliberately
-- Most of the lesson material was covered except some at the very end
-- Give yourself time to prep the lesson material (be kind to yourself)
-- About half of people registered showed up. Registration was capped at 30.
-
 
 **Planning/Brainstorming Spring Workshops**
 
