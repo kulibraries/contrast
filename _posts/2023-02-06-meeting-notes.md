@@ -1,8 +1,8 @@
 ---
-title: "January 03, 2023 Meeting Notes"
+title: "February 06, 2023 Meeting Notes"
 ---
 ### Carpentries Instructors’ meeting
-- Monday, January 03, 2023
+- Monday, February 06, 2023
 - 9:00-10:00 AM
 
 ### Present:
