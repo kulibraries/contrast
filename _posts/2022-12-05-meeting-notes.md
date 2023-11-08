@@ -54,7 +54,7 @@ January 3rd meeting: will plan to meet on this day, last minute check in on the 
 
 **General Discussion**
 
-- One person workshop – Rob Ramos.  at Haskell. Workshop on graphical data science in R, used Ecology lesson. https://rpubs.com/jeremyyew/manipulate-pkg 
+- One person workshop – Rob Ramos.  at Haskell. Workshop on [graphical data science in R](https://rpubs.com/jeremyyew/manipulate-pkg), used Ecology lesson.  
 - Casey – two weeks at SC (SuperComputing) conference; recommend attending at some point – industry, education, research, national laboratories. Live computing demos on the exhibition floor. Scholarships are available (or have been). Next year is in Denver, CO. 
  
 

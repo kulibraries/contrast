@@ -33,7 +33,7 @@ None
 - Rob will be developing a course based on plotting in R and is open to discussing something for a workshop (Joel is interested in this)
 - Chris is interested in teaching R geospatial
 - Tami suggested an undergraduate-focused workshop on R, or one pitched for poly sci students
-- Joel suggested working AI systems into workshops. e.g. ChatGPT (https://openai.com/blog/chatgpt
+- Joel suggested working AI systems into workshops. e.g. [ChatGPT}(https://openai.com/blog/chatgpt).
 
 **Q&A and support for instructor training and checkout tasks**
 

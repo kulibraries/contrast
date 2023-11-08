@@ -9,7 +9,7 @@ title: "November 07, 2022 Meeting Notes"
 Albin, Brooks-Kieffer, Hanson, Everman, Kisielinski, Koseva, Ramos, Nibbelink, Trana, Colella
 
 ### Announcements
-The SOP for planning and hosting an online Carpentries workshop is now available! https://osf.io/g8jmw  
+The SOP for planning and hosting an online Carpentries workshop is now available! [https://osf.io/g8jmw](https://osf.io/g8jmw)
 
 ### Agenda
 - Data Carpentry Ecology: Spreadsheets and OpenRefine (10/14) debrief 
@@ -84,11 +84,11 @@ Delta:
 
 - This is a good opportunity for new instructors to satisfy teaching requirement
 - Carolyn Jackson at KSU is starting to plan spring workshops and is interested in coordinating to avoid overlap
-  - KSU is working on lessons that adapt SC shell lessons to work with HPC:  http://www.hpc-carpentry.org/ 
+  - KSU is working on lessons that adapt SC shell lessons to work with HPC: [http://www.hpc-carpentry.org/](http://www.hpc-carpentry.org/) 
 - Interest in more advanced R (or other language) workshops:
-  - Intro to data viz: very introductory, uses google sheets, is on GitHub and contributions are welcome: https://carpentries-incubator.github.io/intro-data-viz/ 
-  - Interactive Data Visualizations with Python: https://carpentries-incubator.github.io/python-interactive-data-visualizations/
-  - R and the Tidyverse for Working with Data: https://carpentries-incubator.github.io/r-tidyverse-4-datasets/ 
+  - Intro to data viz: very introductory, uses google sheets, is on GitHub and contributions are welcome: [https://carpentries-incubator.github.io/intro-data-viz/](https://carpentries-incubator.github.io/intro-data-viz/) 
+  - Interactive Data Visualizations with Python: [https://carpentries-incubator.github.io/](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
+  - R and the Tidyverse for Working with Data: [https://carpentries-incubator.github.io/r-tidyverse-4-datasets/](https://carpentries-incubator.github.io/r-tidyverse-4-datasets/) 
 
 
 **Q&A and support for instructor training and checkout tasks**
@@ -96,8 +96,8 @@ Delta:
 - Kudos to Meg for finishing instructor training and checkout tasks!
 - People who have been certified for a while may be getting a new certificate that shows you are certified to teach any of the Carpentries lessons.
 - Katie is starting instructor training next week!
-- Checkout tasks discussion:Attend a discussion, contribute to a lesson. Signups for the discussion happen via an Etherpad.  For the teaching demonstration, they can choose from any part of the lesson you choose. Scheduling discussion can be challenging because it is restricted to a certain number of people. Midwest carpentries call counts toward instructor checkout and may be easier to schedule (info above). Notes and schedule at https://pad.carpentries.org/local-us-midwest Last monday of the month at 11am (but November 2022 meeting is 1 week early – 11/21; no December 2022 meeting). Don’t need to register in advance. If you are attending for instructor checkout, add that to your name in the Etherpad so the host knows to do the record-keeping for your attendance.
-- Low-traffic email list at https://carpentries.topicbox.com/groups/local-us-midwest 
+- Checkout tasks discussion:Attend a discussion, contribute to a lesson. Signups for the discussion happen via an Etherpad.  For the teaching demonstration, they can choose from any part of the lesson you choose. Scheduling discussion can be challenging because it is restricted to a certain number of people. Midwest carpentries call counts toward instructor checkout and may be easier to schedule (info above). Notes and schedule at [https://pad.carpentries.org/local-us-midwest](https://pad.carpentries.org/local-us-midwest). Last monday of the month at 11am (but November 2022 meeting is 1 week early – 11/21; no December 2022 meeting). Don’t need to register in advance. If you are attending for instructor checkout, add that to your name in the Etherpad so the host knows to do the record-keeping for your attendance.
+- Low-traffic email list at [https://carpentries.topicbox.com/groups/local-us-midwest](https://carpentries.topicbox.com/groups/local-us-midwest) 
 - Potentially changing the frequency of teaching requirement to maintain certification.  
  
 
