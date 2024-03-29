@@ -5,8 +5,6 @@ title: "February 5, 2024 Meeting Notes"
 - Monday, February 5, 2024
 - 9:00-10:00 AM
 
-**start here**
-
 ### Present:  
 Brooks-Kieffer, Busch, Hanson, Kirker, Koseva, Ramos, Sanderson, Wilhelm
 
