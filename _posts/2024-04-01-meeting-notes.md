@@ -1,5 +1,5 @@
 ---
-title: "April 4, 2024 Meeting Notes"
+title: "April 1, 2024 Meeting Notes"
 ---
 ### Carpentries Instructors’ meeting
 - Monday, April 1, 2024
