@@ -2,7 +2,7 @@
 title: "September 9, 2024 Meeting Notes"
 ---
 ### Carpentries Instructors’ meeting
-- Monday, August 5, 2024
+- Monday, September 9, 2024
 - 9:00-10:00 AM
 
 ### Present:  
