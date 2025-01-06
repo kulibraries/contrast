@@ -1,8 +1,8 @@
 ---
-title: "November 4, 2024 Meeting Notes"
+title: "December 2, 2024 Meeting Notes"
 ---
 ### Carpentries Instructors’ meeting
-- Monday, November 4, 2024
+- Monday, December 2, 2024
 - 9:00-10:00 AM
 
 ### Present:  
